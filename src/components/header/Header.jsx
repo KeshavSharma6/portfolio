@@ -31,6 +31,11 @@ const Header = () => {
                                 <i className="uil uil-file-alt nav_icon"></i> Skills
                             </a>
                         </li>
+                        <li className="nav_item">
+                            <a href="#contact" className="nav_link">
+                                <i className="uil uil-message-alt nav_icon"></i> Contact
+                            </a>
+                        </li>
                         {/* Add more nav items here */}
                     </ul>
                     <i className="uil uil-times nav_close" onClick={handleToggle}></i>

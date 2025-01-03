@@ -73,8 +73,8 @@
         }
 
         /*show meenu*/
-        .show-menu {
-            bottom: 0;
+        .show_menu {
+           bottom:0;
         }
         .nav_list{
             display: grid;
